@@ -1,2 +1,1 @@
-# GerenciadorBG
 # JL-anota-es
